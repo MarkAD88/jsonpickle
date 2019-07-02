@@ -12,3 +12,7 @@
 __pycache__
 .tox/
 .idea
+
+# VSCode specific exclusions
+.mypy_cache
+.vscode
